@@ -311,22 +311,17 @@ var profilesKey = 'bloodborne_profiles';
             profiles[profilesKey][profile_name].hidden_categories = {
                 f_boss: false,
                 f_npc: false,
-                f_estus: false,
-                f_bone: false,
-                f_tome: false,
-                f_coal: false,
-                f_ash: false,
-                f_gest: false,
-                f_sorc: false,
-                f_pyro: false,
-                f_mirac: false,
-                f_ring: false,
-                f_weap: false,
-                f_arm: false,
-                f_tit: false,
-                f_gem: false,
-                f_cov: false,
-                f_misc: false
+				f_bloo: false,
+				f_rune: false,
+				f_gem: false,
+				f_gest: false,
+				f_chal: false,
+				f_weap: false,
+				f_tool: false,
+				f_atti: false,
+				f_cove: false,
+				f_badg: false,
+				f_misc: false,
             };
     }
 
