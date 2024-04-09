@@ -46,3 +46,6 @@ In addition to the filter classes, there is a second type of classes used to con
 |---     |--- |
 | h_ng+  | items hidden on NG+ and beyond, e.g. Blood Gem Workshop Tool |
 | s_ng+  | items shown on NG+ and beyond, e.g. Coldblood replaces Workshop Tool |
+
+## Update History
+• 8 Apr 2024: Add Hunter's Nightmare walkthrough, revise progression
